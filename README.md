@@ -56,6 +56,14 @@ Bu repository'de yer alan notlar, **AWS Certified Cloud Practitioner (CLF-C02)**
 ## 🤝 Katkıda Bulunma
 Hatalı bir bilgi görürseniz veya ekleme yapmak isterseniz blog üzerinden yorum göndermekten çekinmeyin!
 
+<a href="https://www.star-history.com/#xeloxa/aws-clf-c02-notlari&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xeloxa/aws-clf-c02-notlari&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xeloxa/aws-clf-c02-notlari&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=xeloxa/aws-clf-c02-notlari&type=date&legend=top-left" />
+ </picture>
+</a>
+
 <div align="center">
   <sub>© 2025 HackPaper</sub>
 </div>
